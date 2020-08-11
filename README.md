@@ -1,7 +1,4 @@
-In this Jupyter Notebook I analyzed the Nobel Prize dataset from Kaggle.com. 
-I didn't realize till the very end when I wanted 
-
-# NobelPrizeAnalysis
+# Nobel Prize Analysis
 
 #### -- Project Status: Completed 
 
