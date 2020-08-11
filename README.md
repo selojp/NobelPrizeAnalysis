@@ -4,7 +4,7 @@
 
 ## Project Intro/Objective
 In this Jupyter Notebook I analyzed the Nobel Prize dataset from Kaggle.com. 
-I wasn't expecting the this dataset to have duplicate values, so it was fun discovering that at the very end. 
+I wasn't expecting this dataset to have duplicate values, so it was fun discovering that at the very end. 
 
 
 ### Methods Used
